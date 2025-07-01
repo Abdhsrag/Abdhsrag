@@ -1,67 +1,70 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+I'm+Abdelrahman+Mohamd;Full+Stack+Python+%26+React+Developer;Always+Learning+and+Building+Cool+Stuff!" alt="Typing SVG" />
-</h1>
+<!-- HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&width=500&lines=Hey+There+%F0%9F%91%8B+I'm+Abdelrahman+Mohamd;Full+Stack+Python+%2B+React+Developer;Coding+with+Passion+and+Purpose;Welcome+to+My+World+%F0%9F%8C%9F" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:9B59B6&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Who Am I?
 
-- 👋 Hi, I’m **Abdelrahman Mohamd**  
-- 👀 I’m interested in **programming** and having fun!  
-- 🌱 Currently learning **Full Stack Development using Python, Flask, and React**  
-- 📫 Reach me at: **abdhsrag280@gmail.com**  
-- 😄 Pronouns: he/him  
-- 📍 Based in **Egypt**
+> 💬 A passionate **Full Stack Developer** who loves turning ideas into real-life products using 💻 **Python**, **Flask**, **React**, and more.
+
+- 🌍 Based in **Egypt**
+- 🎯 Focused on building modern web apps with clean code
+- 📚 Currently sharpening my skills through the **ITI Full Stack Track**
+- 📬 Contact me: **abdhsrag280@gmail.com**
 
 ---
 
-## 💡 Skills & Tools
+## 🧰 Tech Stack Toolbox
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,django,flask,react,js,ts,html,css,bootstrap,git,github,vscode,linux" />
 </p>
 
 ---
 
-## 🚀 Projects
+## 🚀 My Projects
 
-- 🧪 Learning and building multiple training projects using **Django**, **Flask**, **React**, and more!
+✨ I love learning by doing! Here’s what I’ve been crafting lately:
+
+- 🛍️ **E-Commerce Platforms** using Django + React  
+- 📡 **RESTful APIs** using Django REST Framework  
+
+> 🔧 Most projects are in training now, but always growing! Stay tuned... 👨‍🚀
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdhsrag&show_icons=true&theme=radical&count_private=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdhsrag&layout=compact&theme=radical" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdhsrag&show_icons=true&theme=react&count_private=true" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdhsrag&theme=react" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdhsrag&layout=compact&theme=react"/>
 </p>
 
 ---
 
-## 📬 Contact Me
+## 📫 Let's Connect
 
 <p align="center">
   <a href="mailto:abdhsrag280@gmail.com">
-    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Abdhsrag">
-    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B59B6,100:36BCF7&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
