@@ -42,13 +42,13 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdhsrag&show_icons=true&theme=react&count_private=true" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdhsrag&theme=react" height="180em"/>
+  <img src="https://raw.githubusercontent.com/Abdhsrag/Abdhsrag/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdhsrag&layout=compact&theme=react"/>
+  <img src="https://raw.githubusercontent.com/Abdhsrag/Abdhsrag/main/github-metrics.svg" alt="Metrics" />
 </p>
+
 
 ---
 
