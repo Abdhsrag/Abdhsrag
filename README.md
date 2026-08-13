@@ -1,56 +1,98 @@
-<!-- HEADER -->
+<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&width=500&lines=Hey+There+%F0%9F%91%8B+I'm+Abdelrahman+Mohamd;Full+Stack+Python+%2B+React+Developer;Coding+with+Passion+and+Purpose;Welcome+to+My+World+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=200&section=header&text=Abdelrahman%20Mohamed&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Python%20%2B%20React%20Developer&descAlignY=55&descSize=18"/>
+</p>
+
+<!-- TYPING SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+ideas+into+real+products+%F0%9F%9A%80;Python+%7C+Django+%7C+Flask+%7C+React;Clean+Code+%E2%80%A2+Clean+Architecture;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+</p>
+
+<!-- SOCIAL BADGES -->
+<p align="center">
+  <a href="mailto:abdhsrag280@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Abdhsrag">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Abdhsrag&style=for-the-badge&color=36BCF7&label=Profile+Views"/>
+</p>
+
+<br/>
+
+## 👨‍💻 About Me
+
+```python
+class Abdelrahman:
+    def __init__(self):
+        self.name = "Abdelrahman Mohamed"
+        self.role = "Full Stack Developer"
+        self.location = "Egypt 🇪🇬"
+        self.stack = ["Python", "Django", "Flask", "React", "JavaScript"]
+        self.currently_learning = "ITI Full Stack Track"
+        self.fun_fact = "I turn coffee ☕ into code 💻"
+
+    def say_hi(self):
+        print("Thanks for stopping by — let's build something great!")
+```
+
+<br/>
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,react,js,ts,html,css,bootstrap,tailwind,git,github,vscode,linux,postgres,docker&theme=dark" />
+</p>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Abdhsrag">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdhsrag&repo=your-repo-name&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
+
+- 🛍️ **E-Commerce Platform** — Django + React, full REST API backend
+- 📡 **RESTful APIs** — built with Django REST Framework
+- 🔧 More projects cooking in the lab — stay tuned 👨‍🚀
+
+<br/>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdhsrag&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdhsrag&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
-</p>
-
----
-
-## 👨‍💻 Who Am I?
-
-> 💬 A passionate **Full Stack Developer** who loves turning ideas into real-life products using 💻 **Python**, **Flask**, **React**, and more.
-
-- 🌍 Based in **Egypt**
-- 🎯 Focused on building modern web apps with clean code
-- 📚 Currently sharpening my skills through the **ITI Full Stack Track**
-- 📬 Contact me: **abdhsrag280@gmail.com**
-
----
-
-## 🧰 Tech Stack Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,react,js,ts,html,css,bootstrap,git,github,vscode,linux" />
-</p>
-
----
-
-## 🚀 My Projects
-
-✨ I love learning by doing! Here’s what I’ve been crafting lately:
-
-- 🛍️ **E-Commerce Platforms** using Django + React  
-- 📡 **RESTful APIs** using Django REST Framework  
-
-> 🔧 Most projects are in training now, but always growing! Stay tuned... 👨‍🚀
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abdhsrag/Abdhsrag/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdhsrag&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abdhsrag/Abdhsrag/main/github-metrics.svg" alt="Metrics" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdhsrag&theme=tokyo-night&hide_border=true"/>
 </p>
 
+<br/>
 
----
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdhsrag&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abdhsrag/Abdhsrag/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+</p>
+
+<br/>
 
 ## 📫 Let's Connect
 
@@ -63,8 +105,6 @@
   </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:36BCF7&height=120&section=footer"/>
 </p>
