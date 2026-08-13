@@ -42,21 +42,21 @@ class Abdelrahman:
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,react,js,ts,html,css,bootstrap,tailwind,git,github,vscode,linux,postgres,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,vite,react,nextjs,js,ts,html,css,bootstrap,tailwind,git,github,vscode,linux,postgres,docker&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
 </p>
 
 <br/>
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Abdhsrag">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdhsrag&repo=your-repo-name&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
-
 - 🛍️ **E-Commerce Platform** — Django + React, full REST API backend
-- 📡 **RESTful APIs** — built with Django REST Framework
+- 📡 **RESTful APIs** — built with Django REST Framework / FastAPI
 - 🔧 More projects cooking in the lab — stay tuned 👨‍🚀
 
 <br/>
@@ -64,12 +64,12 @@ class Abdelrahman:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdhsrag&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdhsrag&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdhsrag&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdhsrag&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdhsrag&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=Abdhsrag&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -81,7 +81,7 @@ class Abdelrahman:
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdhsrag&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdhsrag&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=6&margin-w=8"/>
 </p>
 
 <br/>
