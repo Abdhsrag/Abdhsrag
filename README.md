@@ -64,8 +64,8 @@ class Abdelrahman:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Abdhsrag&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abdhsrag&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="165" src="https://github-stats-extended-frontend-red-zeta.vercel.app/api?username=Abdhsrag&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
+  <img height="165" src="https://github-stats-extended-frontend-red-zeta.vercel.app/api/top-langs/?username=Abdhsrag&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 <p align="center">
