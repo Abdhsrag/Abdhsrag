@@ -64,24 +64,13 @@ class Abdelrahman:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdhsrag&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdhsrag&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Abdhsrag&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abdhsrag&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Abdhsrag&theme=tokyonight&hide_border=true"/>
 </p>
-
-<br/>
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdhsrag&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=6&margin-w=8"/>
-</p>
-<!-- NOTE: If the two cards above are still broken, the public Vercel mirrors are down/rate-limited.
-     Deploy your own free copy (see anuraghazra/github-readme-stats and ryo-ma/github-profile-trophy
-     on GitHub — both have a one-click "Deploy to Vercel" button), then send me the new URLs to swap in. -->
 
 <br/>
 
